@@ -28,7 +28,19 @@ h2{
 
 ol{
     font-size: 150%;
+}  
+
+/* 5. vw -veieport-width (THe font size will automatically set upto width of device/screen) */
+/* p{
+    font-size: 10vw;
+}  */
+
+/* 6. vh -veieport-height (THe font size will automatically set upto height of device/screen) */
+p{
+    font-size: 10vh;
 } 
+
+
 
 
 
