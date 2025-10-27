@@ -28,16 +28,16 @@
     top: 30px;
     left: 30px; */
 
-    /* position: absolute;
+    position: absolute;
     /* z-index: -1; */
-    /* top: 10px;
-    left: 10px;  */
+    top: 10px;
+    left: 10px; 
 
     /* position: fixed;
     top: 20px; */
 
-    position: sticky;
-    top: 10px; 
+    /* position: sticky;
+    top: 10px;  */
     
 } 
 
